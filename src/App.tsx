@@ -60,3 +60,4 @@ const StyledContent = styled(StyledGrid)({
     },
   },
 });
+
